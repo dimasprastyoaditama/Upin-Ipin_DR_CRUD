@@ -131,7 +131,7 @@ namespace CRUDMahasiswaADO
 
                 if (result > 0)
                 {
-                    MessageBox.Show("Data mahasiswa berhasil ditambahkan"); // Sebelumnya: diupdate
+                    MessageBox.Show("Data mahasiswa berhasil ditambahkan");
                     ClearForm();
                     btnLoad.PerformClick();
                 }
@@ -176,7 +176,7 @@ namespace CRUDMahasiswaADO
 
                 if (result > 0)
                 {
-                    MessageBox.Show("Data berhasil diperbarui"); // Sebelumnya: dihapus
+                    MessageBox.Show("Data berhasil diperbarui"); 
                     ClearForm();
                     btnLoad.PerformClick();
                 }
@@ -336,7 +336,7 @@ namespace CRUDMahasiswaADO
 
                 if (result > 0)
                 {
-                    MessageBox.Show("Data mahasiswa berhasil ditambahkan"); // Sebelumnya: diupdate
+                    MessageBox.Show("Data mahasiswa berhasil ditambahkan"); 
                     ClearForm();
                     btnLoad.PerformClick();
                 }
@@ -421,7 +421,7 @@ namespace CRUDMahasiswaADO
 
                 if (result > 0)
                 {
-                    MessageBox.Show("Data berhasil diperbarui"); // Sebelumnya: dihapus
+                    MessageBox.Show("Data berhasil diperbarui");
                     ClearForm();
                     btnLoad.PerformClick();
                 }
