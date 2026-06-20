@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="CRUDMahasiswaADO/CRUDMahasiswaADO.csproj" />
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CRUDMahasiswaADO/CRUDMahasiswaADO.csproj" Id="86e0b9e6-a781-489d-b6e6-20c067f65419">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
 </Solution>
