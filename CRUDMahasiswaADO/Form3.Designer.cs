@@ -61,7 +61,7 @@
             this.crystalReportViewer2.Size = new System.Drawing.Size(1060, 599);
             this.crystalReportViewer2.TabIndex = 1;
             this.crystalReportViewer2.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
-            this.crystalReportViewer2.Load += new System.EventHandler(this.crystalReportViewer2_Load);
+
             // 
             // Form3
             // 
